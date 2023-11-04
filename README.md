@@ -47,9 +47,7 @@ This project is a solo endeavor as part of the coursework for "The Complete Data
 
 ## License
 
-This project, completed as part of the coursework for "The Complete Data Science Bootcamp" on Udemy, is not subject to external licensing restrictions. It is intended for educational purposes and personal development as part of the course.
-
-Thank you for visiting this repository, and we hope this project demonstrates the skills and knowledge acquired during "The Complete Data Science Bootcamp" by 365 Career on Udemy. Enjoy exploring and enhancing customer retention strategies for the audiobook e-commerce platform within "P2 AUDIOBOOK BUSINESS CASE.ipynb." If you have any course-related questions or need assistance, don't hesitate to reach out to the course community or instructor.
+This project is under MIT License.
 
 Happy learning! 📚🎧
 
